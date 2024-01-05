@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm James 👋
+- 👨‍💻 Software Engineer with experience in Ruby, JavaScript (TypeScript, React), and Go
+- 🇺🇸 Based in North Carolina, USA
+- 🐦 Creator of [Laridae](https://laridae-migrations.github.io/), an open-source tool for reversible, zero-downtime schema migrations in PostgreSQL
+- 💡 Loves elegant abstractions but also has a healthy appreciation for [blub](https://www.benkuhn.net/blub/)
 
 <!--
 **james-e-thompson/james-e-thompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
